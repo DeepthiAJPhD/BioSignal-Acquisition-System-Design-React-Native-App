@@ -1,44 +1,10 @@
-# Biosignal Data Acquisition System
+Android OS and iOS compatible Mobile Application for supporting signal conditioning circuit design for specific requirements needed to adapt to new CMOS technology nodes in biosignal recording devices
 
-Screen1 : Bg Image , 
-              https://reactnative.dev/docs/image-style-props
-              https://reactnative.dev/docs/imagebackground#imagestyle
-          added dimensions 
-              https://reactnative.dev/docs/dimensions
-          added touchable opacity for button nex screen image 
-              https://reactnativecode.com/add-onpress-onclick-image/
-              https://reactnative.dev/docs/touchableopacity
-          & Switch navigation to Screen 2
-              https://medium.com/@phylypo/react-native-navigation-with-switch-stack-and-tab-3506eafb16a0
-              https://snack.expo.dev/@deepthitchr/switch-navigator-example
-              https://snack.expo.dev/@deepthitchr/5-wireless-quiz-buzzer-app-switch-navigator-reference
-              
-              
+For monitoring health using handheld devices with data from biosignal acquisition devices for ECG, EEG etc.
 
+For research and study purposes to assist in better design of Biomedical Recording Devices and for providing improved diagnosis assistance using AI to the medical professionals
 
-
-
-
-
-https://snack.expo.dev/@deepthitchr/ecgmonitoringappv2
-https://snack.expo.dev/@deepthitchr/ecgmonitoringappv1
-
-
-
-
-
-
-
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-
+https://youtu.be/LbDMrtM3Mk4
 https://snack.expo.dev/@deepthi-dev/bsav15
 
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
