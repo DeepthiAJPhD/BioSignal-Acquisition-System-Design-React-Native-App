@@ -5,6 +5,7 @@ For monitoring health using handheld devices with data from biosignal acquisitio
 For research and study purposes to assist in better design of Biomedical Recording Devices and for providing improved diagnosis assistance using AI to the medical professionals
 
 https://youtu.be/LbDMrtM3Mk4
-https://snack.expo.dev/@deepthi-dev/bsav15
 
+The coding was done using Snack Expo!
 
+[The App](https://snack.expo.dev/@deepthi-dev/bsav15)
